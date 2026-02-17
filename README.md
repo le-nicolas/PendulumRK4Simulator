@@ -2,6 +2,10 @@
 
 A small Python project that simulates a pendulum using a 4th-order Runge-Kutta (RK4) integrator.
 
+## Sample Output
+
+![Sample pendulum simulation output](assets/sample-output.png)
+
 This project was inspired by Walter Lewin's lectures:
 https://www.youtube.com/watch?v=77ZF50ve6rs&t=24s
 
